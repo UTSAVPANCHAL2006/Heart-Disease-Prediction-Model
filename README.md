@@ -1,40 +1,25 @@
-Heart Disease Prediction Model
-Overview
+# ❤️ Heart Disease Prediction Model
 
-This project predicts whether a person has heart disease based on health data. It uses machine learning models to help with early detection and awareness.
+Predict heart disease using machine learning! This project helps detect the likelihood of heart disease based on health data.
 
-Dataset
+---
 
-The dataset is the Heart Disease Dataset, which has features like age, sex, blood pressure, cholesterol, and more.
+## 🗂️ Dataset
+We use the ** Heart Disease Dataset**, which includes key health features like age, blood pressure, cholesterol, and more.
 
-Models Used
+## 🧠 Models Used
+- Logistic Regression  
+- Decision Tree  
+- Random Forest  
+- K-Nearest Neighbors (KNN)  
+- Support Vector Machine (SVM)  
 
-Logistic Regression
+---
 
-Decision Tree
+## ⚡ How to Run
 
-Random Forest
-
-K-Nearest Neighbors (KNN)
-
-Support Vector Machine (SVM)
-
-How to Run
-
-Clone the repository:
-
+1. **Clone the repo:**
+```bash
 git clone https://github.com/UTSAVPANCHAL2006/Heart-Disease-Prediction-Model.git
 cd Heart-Disease-Prediction-Model
 
-Install dependencies:
-
-Run Jupyter Notebook:
-
-jupyter notebook
-
-
-Open the notebook to see data preprocessing, model training, and predictions.
-
-(Optional) Run Streamlit App:
-
-streamlit run app.py
