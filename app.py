@@ -7,7 +7,7 @@ model = joblib.load("GNB_heart.pkl")
 scaler = joblib.load("scaler.pkl")
 expected_columns = joblib.load("columns.pkl")
 
-st.title("🫀 Heart Disease Prediction by UtsavPanchal👨🏻‍💻")
+st.title("🫀 Heart Disease Prediction ")
 
 st.markdown("Provide the following details to check your heart stroke risk:")
 
