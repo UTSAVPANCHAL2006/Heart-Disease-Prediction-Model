@@ -23,3 +23,11 @@ We use the ** Heart Disease Dataset**, which includes key health features like a
 git clone https://github.com/UTSAVPANCHAL2006/Heart-Disease-Prediction-Model.git
 cd Heart-Disease-Prediction-Model
 
+2.Install dependencies:
+Install Liabrarys Numpy , pandas , seaborn , matplotlib , Sklearn
+
+3.jupyter notebook
+Run jupyter Notebook
+
+4.Run Streamlit App:
+streamlit run app.py
