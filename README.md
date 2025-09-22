@@ -17,9 +17,10 @@ We use the ** Heart Disease Dataset**, which includes key health features like a
 ---
 
 ## ⚡ How to Run
+~~~bash
 
 1. **Clone the repo:**
-```bash
+
 git clone https://github.com/UTSAVPANCHAL2006/Heart-Disease-Prediction-Model.git
 cd Heart-Disease-Prediction-Model
 
